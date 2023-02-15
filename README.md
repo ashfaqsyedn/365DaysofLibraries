@@ -33,6 +33,11 @@ Day 7 -- Checkpoint and Bridge <br />
   Description: <br />
   Officiail Site: <br />
   Github Link: <br />
+  
+Day 8 -- Grouparoo <br />
+  Description: <br />
+  Official Site: <br />
+  Github Link: <br />
 
 Day 16 -- Lineapy <br />
   Description: Capture analyse and transform messy notebooks into data pipelines <br />
