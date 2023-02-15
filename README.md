@@ -9,7 +9,7 @@ Day 3 -- Chassis <br />
   Description: 
 
 Day 16 -- Lineapy <br />
-  Description: Capture analyse and transform messy notebooks into data pipelines <br \>
+  Description: Capture analyse and transform messy notebooks into data pipelines <br />
   Official Site: https://lineapy.org/ <br />
   Github Site: https://github.com/LineaLabs/lineapy
  
