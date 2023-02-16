@@ -59,6 +59,11 @@ Day 12 -- Growthbook <br />
   Official Site: <br />
   Github Link: <br />
   
+Day 13 -- Pandera <br />
+  Description: <br />
+  Official Site: <br />
+  Github Link: <br />
+  
 Day 16 -- Lineapy <br />
   Description: Capture analyse and transform messy notebooks into data pipelines <br />
   Official Site: https://lineapy.org/ <br />
