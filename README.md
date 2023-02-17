@@ -80,12 +80,12 @@ Day 16 -- Lineapy <br />
   Github Site: https://github.com/LineaLabs/lineapy
   
 Day 17 -- Castled.io <br />
-  Description:
-  Official Site:
-  Github Site:
+  Description:<br />
+  Official Site: <br />
+  Github Site: <br />
   
 Day 18 --  <br />
-  Description:
-  Official Site:
-  Github Site:
+  Description: <br/>
+  Official Site: <br />
+  Github Site: <br />
  
