@@ -84,10 +84,10 @@ Day 17 -- Castled.io <br />
   Official Site: <br />
   Github Site: <br />
   
-Day 18 --  <br />
-  Description: <br/>
-  Official Site: <br />
-  Github Site: <br />
+Day 18 -- Daft  <br />
+  Description: Distributed Dataframe for complex data <br/>
+  Official Site: https://www.getdaft.io/ <br />
+  Github Site: https://github.com/Eventual-Inc/Daft <br />
   
 Day 19 --  <br />
   Description: <br/>
