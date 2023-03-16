@@ -10,24 +10,24 @@ Day 2 -- Model Store <br />
   Github Site: <br />
 
 Day 3 -- Chassis <br />
-  Description: <br />
-  Official Site: <br />
-  Github Site: <br />
+  Description: Turns ML Models into production contatiners. <br />
+  Official Site: https://chassis.ml/ <br />
+  Github Site: https://github.com/modzy/chassis <br />
   
-Day 4 -- Zing <br />
-  Description: <br />
-  Official Site: <br />
-  Github Site: <br />
+Day 4 -- Zingg <br />
+  Description: Open Source Identity resolution for single source of truth.<br />
+  Official Site: https://www.zingg.ai/ <br />
+  Github Site: https://github.com/zinggAI/zingg <br />
   
 Day 5 -- Whylogs <br />
-  Description: <br />
-  Official Site: <br />
-  Github link: <br />
+  Description: Open Standard for data logging<br />
+  Official Site: https://whylabs.ai/whylogs <br />
+  Github link: https://github.com/whylabs/whylogs <br />
 
 Day 6 -- Evidently AI <br />
-  Description: <br />
-  Official Site: <br />
-  Github link: <br />
+  Description: ML Monitoring, Build tools to evaluate, test and monitor machine learning models.<br />
+  Official Site: https://www.evidentlyai.com/ <br />
+  Github link: https://github.com/evidentlyai/evidently <br />
   
 Day 7 -- Checkpoint and Bridge <br />
   Description: <br />
