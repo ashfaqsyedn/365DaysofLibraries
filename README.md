@@ -35,9 +35,9 @@ Day 7 -- Flare, Checkpoint and Bridge <br />
   Github Link: https://github.com/dominodatalab/domino-research <br />
   
 Day 8 -- Grouparoo <br />
-  Description: <br />
-  Official Site: <br />
-  Github Link: <br />
+  Description: Data synchronisation tool that helps to move data between data warehouses and all of data cloud tools.<br />
+  Official Site: https://www.grouparoo.com/ <br />
+  Github Link: https://github.com/grouparoo/grouparoo <br />
  
 Day 9 -- FuseML <br />
   Description: <br />
