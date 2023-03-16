@@ -5,9 +5,9 @@ Day 1 -- Obsei <br />
   Github Site: https://github.com/obsei/obsei <br />
   
 Day 2 -- Model Store <br />
-  Description: <br />
+  Description: Machine Learning library to version, export, save and download ml models in choice of storage. <br />
   Official Site: <br />
-  Github Site: <br />
+  Github Site: https://github.com/operatorai/modelstore<br />
 
 Day 3 -- Chassis <br />
   Description: Turns ML Models into production contatiners. <br />
@@ -29,10 +29,10 @@ Day 6 -- Evidently AI <br />
   Official Site: https://www.evidentlyai.com/ <br />
   Github link: https://github.com/evidentlyai/evidently <br />
   
-Day 7 -- Checkpoint and Bridge <br />
-  Description: <br />
+Day 7 -- Flare, Checkpoint and Bridge <br />
+  Description: Bridge- Continuous Deployement from MLFLow, Deploys models from MLFLow to localhost/Sagemaker. Turns your registry into declarative source of truth.; Flare- Monitor models and get alerts without capturing, stoing or processing production inference data. ; Checkpoint- Pull request for ml models for better governance of model deployments.<br />
   Officiail Site: <br />
-  Github Link: <br />
+  Github Link: https://github.com/dominodatalab/domino-research <br />
   
 Day 8 -- Grouparoo <br />
   Description: <br />
