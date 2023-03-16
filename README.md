@@ -40,9 +40,9 @@ Day 8 -- Grouparoo <br />
   Github Link: https://github.com/grouparoo/grouparoo <br />
  
 Day 9 -- FuseML <br />
-  Description: <br />
-  Official Site: <br />
-  Github Link: <br />
+  Description: Integrating various ml tools for mlops operations. Coherent stack of AI/ML tools to run ml operations.<br />
+  Official Site: https://fuseml.github.io/ <br/>
+  Github Link:  https://github.com/fuseml/fuseml <br />
   
 Day 10 -- Flyte <br />
   Description: <br />
