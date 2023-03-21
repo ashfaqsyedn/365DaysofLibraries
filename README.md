@@ -60,7 +60,7 @@ Day 12 -- Growthbook <br />
   Github Link: https://github.com/growthbook/growthbook <br />
   
 Day 13 -- Pandera <br />
-  Description: <br />
+  Description: A data validation library for scientists, engineers, and analysts seeking correctness.<br />
   Official Site: <br />
   Github Link: <br />
   
