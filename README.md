@@ -57,7 +57,7 @@ Day 11 -- Crane <br />
 Day 12 -- Growthbook <br />
   Description: <br />
   Official Site: https://www.growthbook.io/ <br />
-  Github Link: <br />
+  Github Link: https://github.com/growthbook/growthbook <br />
   
 Day 13 -- Pandera <br />
   Description: <br />
