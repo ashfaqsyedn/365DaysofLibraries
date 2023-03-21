@@ -55,7 +55,7 @@ Day 11 -- Crane <br />
   Github Link: <br />
   
 Day 12 -- Growthbook <br />
-  Description: <br />
+  Description: Open source feature flagging and A/B testing. <br />
   Official Site: https://www.growthbook.io/ <br />
   Github Link: https://github.com/growthbook/growthbook <br />
   
