@@ -46,7 +46,7 @@ Day 9 -- FuseML <br />
   
 Day 10 -- Flyte <br />
   Description: Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale.<br />
-  Official Site: https://flyte.org/ <br />
+  Official Site: https://flyte.org/<br />
   Github Link : https://github.com/flyteorg/flyte <br />
 
 Day 11 -- Crane <br />
