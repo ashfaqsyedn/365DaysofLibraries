@@ -62,7 +62,7 @@ Day 12 -- Growthbook <br />
 Day 13 -- Pandera <br />
   Description: A data validation library for scientists, engineers, and analysts seeking correctness.<br />
   Official Site: https://pandera.readthedocs.io/en/stable/<br />
-  Github Link: <br />
+  Github Link: https://github.com/unionai-oss/pandera <br />
   
 Day 14 -- PrimeHub <br />
   Description: <br />
