@@ -65,9 +65,9 @@ Day 13 -- Pandera <br />
   Github Link: https://github.com/unionai-oss/pandera <br />
   
 Day 14 -- PrimeHub <br />
-  Description: <br />
-  Official Site: <br />
-  Github Link: <br />
+  Description: Speed up mlops process. Provides cluster computing, one-click research environments, easy dataset loading and management of various types of resources and access control.<br />
+  Official Site: https://www.infuseai.io/primehub-ai-platform <br />
+  Github Link: https://github.com/InfuseAI/primehub <br />
   
 Day 15 -- Orchest <br />
   Description: <br />
