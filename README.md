@@ -70,9 +70,9 @@ Day 14 -- PrimeHub <br />
   Github Link: https://github.com/InfuseAI/primehub <br />
   
 Day 15 -- Orchest <br />
-  Description: <br />
-  Official Site: <br />
-  Github Link: <br />
+  Description: Build data pipelines the easy way. <br />
+  Official Site: https://www.orchest.io/ <br />
+  Github Link: https://github.com/orchest/orchest <br />
   
 Day 16 -- Lineapy <br />
   Description: Capture analyse and transform messy notebooks into data pipelines <br />
@@ -80,9 +80,9 @@ Day 16 -- Lineapy <br />
   Github Site: https://github.com/LineaLabs/lineapy
   
 Day 17 -- Castled.io <br />
-  Description:<br />
-  Official Site: <br />
-  Github Site: <br />
+  Description: Run real time marketing campaigns on top of your datawarehouse. <br />
+  Official Site: https://www.castled.io/ <br />
+  Github Site: https://github.com/castledio <br />
   
 Day 18 -- Daft  <br />
   Description: Distributed Dataframe for complex data <br/>
