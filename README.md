@@ -94,9 +94,9 @@ Day 19 -- Pipedream  <br />
   Official Site: https://pipedream.com/ <br />
   Github Site: https://github.com/PipedreamHQ/pipedream <br />
  
-Day 20 --  <br />
-  Description: <br/>
-  Official Site: <br />
+Day 20 -- Dolthub <br />
+  Description: SQL Database that supports clone, brannch and merge.<br/>
+  Official Site: https://www.dolthub.com/ <br />
   Github Site: <br />
  
 Day 21 -- <br />
