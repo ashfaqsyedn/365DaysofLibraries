@@ -103,3 +103,8 @@ Day 21 -- Zarr <br />
   Description: File storage format for chunked, compressed, N - Dimensional Array. <br />
   Official Site: https://zarr.readthedocs.io/en/stable/ <br />
   Github Site: https://github.com/zarr-developers/zarr-python <br />
+  
+Day 22 -- ray.ai <br />
+  Description: GPU Orchestration platform. <br />
+  Official Site: https://run.ai  <br />
+  Github Site: https://github.com/run-ai <br />
