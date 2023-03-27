@@ -99,7 +99,7 @@ Day 20 -- Dolthub <br />
   Official Site: https://www.dolthub.com/ <br />
   Github Site: <br />
  
-Day 21 -- <br />
-  Description: <br />
-  Official Site: <br />
-  Github Site: <br />
+Day 21 -- Zarr <br />
+  Description: File storage format for chunked, compressed, N - Dimensional Array. <br />
+  Official Site: https://zarr.readthedocs.io/en/stable/ <br />
+  Github Site: https://github.com/zarr-developers/zarr-python <br />
