@@ -113,3 +113,15 @@ Day 22 -- Hugging Face Optimum  <br />
   Description: extension of transformers providing a set of optimization tools enabling maximum efficiency to run and train models. <br />
   Official Site: https://huggingface.co/docs/optimum/index  <br />
   Github Site: https://github.com/huggingface/optimum <br />
+  
+Day 22 -- Graphcore  <br />
+  Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
+  Official Site: https://www.graphcore.ai/  <br />
+  Github Site: https://github.com/huggingface/optimum-graphcore <br />
+  
+Day 22 -- Habana  <br />
+  Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
+  Official Site: https://developer.habana.ai/  <br />
+  Github Site: https://github.com/huggingface/optimum-habana  <br />
+  
+
