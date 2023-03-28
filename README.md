@@ -108,3 +108,8 @@ Day 22 -- ray.ai <br />
   Description: GPU Orchestration platform. <br />
   Official Site: https://run.ai  <br />
   Github Site: https://github.com/run-ai <br />
+  
+Day 22 -- Hugging Face Optimum  <br />
+  Description: extension of transformers providing a set of optimization tools enabling maximum efficiency to run and train models. <br />
+  Official Site: https://huggingface.co/docs/optimum/index  <br />
+  Github Site: https://github.com/huggingface/optimum <br />
