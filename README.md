@@ -109,41 +109,45 @@ Day 22 -- ray.ai <br />
   Official Site: https://run.ai  <br />
   Github Site: https://github.com/run-ai <br />
   
-Day 22 -- Hugging Face Optimum  <br />
+Day 23 -- Hugging Face Optimum  <br />
   Description: extension of transformers providing a set of optimization tools enabling maximum efficiency to run and train models. <br />
   Official Site: https://huggingface.co/docs/optimum/index  <br />
   Github Site: https://github.com/huggingface/optimum <br />
   
-Day 22 -- Graphcore  <br />
+Day 24 -- Graphcore  <br />
   Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
   Official Site: https://www.graphcore.ai/  <br />
   Github Site: https://github.com/huggingface/optimum-graphcore <br />
   
-Day 22 -- Habana  <br />
+Day 25 -- Habana  <br />
   Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
   Official Site: https://developer.habana.ai/  <br />
   Github Site: https://github.com/huggingface/optimum-habana  <br />
   
-Day 22 -- tdda  <br />
+Day 26 -- tdda  <br />
   Description: Tdda allows us to generate constraints from a reference data asset and verify whether another data asset matches those constraints. llows specifying and verifying constraints in data, provides some lightweight profiling.<br />
   Official Site: https://www.tdda.info/  <br />
   Github Site: https://github.com/tdda/tdda
   
   
-Day 22 -- Pandas Profiling  <br />
+Day 27 -- Pandas Profiling  <br />
   Description: Provide one line EDA solution in consistent and fast manner. A.<br />
   Official Site:https://pypi.org/project/pandas-profiling/  <br />
   Github Site: 
   
   
-Day 22 -- Ydata Profiling  <br />
+Day 28 -- Ydata Profiling  <br />
   Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
   Official Site: https://ydata-profiling.ydata.ai/docs/master/index.html  <br />
   Github Site: https://github.com/ydataai/ydata-profiling
   
   
-Day 22 -- PyDQC <br />
+Day 29 -- PyDQC <br />
   Description: Does some data profiling(shows basic stats about a table), compares columns between tables, compares tables for identity. <br />
   Official Site: https://pypi.org/project/pydqc/  <br />
   Github Site: https://github.com/SauceCat/pydqc
 
+Day 30 -- Great Expectations <br />
+  Description: Allows you to write declarative data tests, get validation results from those tests and output a report that documents the current state of your data.
+  Official Site : https://greatexpectations.io/
+  Github Site : 
