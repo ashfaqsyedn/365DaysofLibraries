@@ -139,7 +139,7 @@ Day 22 -- Pandas Profiling  <br />
 Day 22 -- Ydata Profiling  <br />
   Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
   Official Site: https://ydata-profiling.ydata.ai/docs/master/index.html  <br />
-  Github Site:
+  Github Site: https://github.com/ydataai/ydata-profiling
   
   
 Day 22 -- Habana  <br />
