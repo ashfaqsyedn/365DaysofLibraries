@@ -124,4 +124,26 @@ Day 22 -- Habana  <br />
   Official Site: https://developer.habana.ai/  <br />
   Github Site: https://github.com/huggingface/optimum-habana  <br />
   
+Day 22 -- tdda  <br />
+  Description: Tdda allows us to generate constraints from a reference data asset and verify whether another data asset matches those constraints<br />
+  Official Site: https://www.tdda.info/  <br />
+  Github Site: https://github.com/tdda/tdda
+  
+  
+Day 22 -- Habana  <br />
+  Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
+  Official Site: https://developer.habana.ai/  <br />
+  Github Site:
+  
+  
+Day 22 -- Habana  <br />
+  Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
+  Official Site: https://developer.habana.ai/  <br />
+  Github Site:
+  
+  
+Day 22 -- Habana  <br />
+  Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
+  Official Site: https://developer.habana.ai/  <br />
+  Github Site:
 
