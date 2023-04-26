@@ -125,13 +125,13 @@ Day 22 -- Habana  <br />
   Github Site: https://github.com/huggingface/optimum-habana  <br />
   
 Day 22 -- tdda  <br />
-  Description: Tdda allows us to generate constraints from a reference data asset and verify whether another data asset matches those constraints<br />
+  Description: Tdda allows us to generate constraints from a reference data asset and verify whether another data asset matches those constraints. llows specifying and verifying constraints in data, provides some lightweight profiling.<br />
   Official Site: https://www.tdda.info/  <br />
   Github Site: https://github.com/tdda/tdda
   
   
 Day 22 -- Pandas Profiling  <br />
-  Description: Provide one line EDA solution in consistent and fast manner.<br />
+  Description: Provide one line EDA solution in consistent and fast manner. A.<br />
   Official Site:https://pypi.org/project/pandas-profiling/  <br />
   Github Site: 
   
