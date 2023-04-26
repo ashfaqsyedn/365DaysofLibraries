@@ -127,69 +127,67 @@ Day 25 -- Habana  <br />
 Day 26 -- tdda  <br />
   Description: Tdda allows us to generate constraints from a reference data asset and verify whether another data asset matches those constraints. llows specifying and verifying constraints in data, provides some lightweight profiling.<br />
   Official Site: https://www.tdda.info/  <br />
-  Github Site: https://github.com/tdda/tdda
+  Github Site: https://github.com/tdda/tdda <br />
   
   
 Day 27 -- Pandas Profiling  <br />
   Description: Provide one line EDA solution in consistent and fast manner. A.<br />
   Official Site:https://pypi.org/project/pandas-profiling/  <br />
-  Github Site: 
-  
+  Github Site: <br />
   
 Day 28 -- Ydata Profiling  <br />
   Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
   Official Site: https://ydata-profiling.ydata.ai/docs/master/index.html  <br />
-  Github Site: https://github.com/ydataai/ydata-profiling
-  
+  Github Site: https://github.com/ydataai/ydata-profiling <br />
   
 Day 29 -- PyDQC <br />
   Description: Does some data profiling(shows basic stats about a table), compares columns between tables, compares tables for identity. <br />
   Official Site: https://pypi.org/project/pydqc/  <br />
-  Github Site: https://github.com/SauceCat/pydqc
+  Github Site: https://github.com/SauceCat/pydqc  <br />
 
 Day 30 -- Great Expectations <br />
-  Description: Allows you to write declarative data tests, get validation results from those tests and output a report that documents the current state of your data.
-  Official Site : https://greatexpectations.io/
-  Github Site : https://github.com/great-expectations/great_expectations
+  Description: Allows you to write declarative data tests, get validation results from those tests and output a report that documents the current state of your data. <br />
+  Official Site : https://greatexpectations.io/ <br />
+  Github Site : https://github.com/great-expectations/great_expectations <br />
   
 Day 30 -- Bulwark <br />
-  Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests.
-  Official Site : https://pypi.org/project/bulwark/
-  Github Site : https://github.com/ZaxR/bulwark
+  Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests. <br />
+  Official Site : https://pypi.org/project/bulwark/ <br />
+  Github Site : https://github.com/ZaxR/bulwark <br />
  
 Day 30 -- Engarde <br />
-  Description: A precursor to bulwark, allows you to add decorators with data assertions to method that return pandas data frames.
-  Official Site : https://engarde.readthedocs.io/en/latest/
-  Github Site : https://github.com/engarde-dev/engarde
+  Description: A precursor to bulwark, allows you to add decorators with data assertions to method that return pandas data frames. <br />
+  Official Site : https://engarde.readthedocs.io/en/latest/ <br />
+  Github Site : https://github.com/engarde-dev/engarde <br />
   
   
 Day 30 -- Voluptuous <br />
-  Description: Specify a schema to validate JSON/YAML
-  Official Site :
-  Github Site : https://github.com/alecthomas/voluptuous
+  Description: Specify a schema to validate JSON/YAML. <br />
+  Official Site : <br />
+  Github Site : https://github.com/alecthomas/voluptuous <br />
+  
+  
+Day 30 -- Opulent Pandas <br />
+  Description: A df-focused version of Voluptuous. <br />
+  Official Site : https://pypi.org/project/bulwark/ <br />
+  Github Site : https://github.com/ZaxR/bulwark <br />
   
   
 Day 30 -- Bulwark <br />
-  Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests.
-  Official Site : https://pypi.org/project/bulwark/
-  Github Site : https://github.com/ZaxR/bulwark
-  
-  
-Day 30 -- Bulwark <br />
-  Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests.
-  Official Site : https://pypi.org/project/bulwark/
-  Github Site : https://github.com/ZaxR/bulwark
+  Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests. <br />
+  Official Site : https://pypi.org/project/bulwark/ <br />
+  Github Site : https://github.com/ZaxR/bulwark <br />
   
   
 
-Day 30 -- Bulwark <br />
-  Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests.
-  Official Site : https://pypi.org/project/bulwark/
-  Github Site : https://github.com/ZaxR/bulwark
+Day 30 -- Mobydq <br />
+  Description: Tool to automate data quality checks on their data pipeline, capture data quality issues and trigger alerts in case of anomaly, regardless of data sources they use. <br />
+  Official Site : https://ubisoft.github.io/mobydq/ <br />
+  Github Site : https://github.com/ubisoft/mobydq <br />
   
   
   
-Day 30 -- Bulwark <br />
-  Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests.
-  Official Site : https://pypi.org/project/bulwark/
-  Github Site : https://github.com/ZaxR/bulwark
+Day 30 -- Dedupe <br />
+  Description: Using fuzzy matching to perform de-duplication and entity resolution in data. <br />
+  Official Site : https://dedupe.io/, https://pypi.org/project/dedupe/
+  Github Site : https://github.com/dedupeio/dedupe
