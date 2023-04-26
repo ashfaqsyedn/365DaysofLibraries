@@ -142,8 +142,8 @@ Day 22 -- Ydata Profiling  <br />
   Github Site: https://github.com/ydataai/ydata-profiling
   
   
-Day 22 -- Habana  <br />
-  Description: Build and Deploy AI solutions and Generative AI products using IPU<br />
-  Official Site: https://developer.habana.ai/  <br />
-  Github Site:
+Day 22 -- PyDQC <br />
+  Description: Does some data profiling(shows basic stats about a table), compares columns between tables, compares tables for identity. <br />
+  Official Site: https://pypi.org/project/pydqc/  <br />
+  Github Site: https://github.com/SauceCat/pydqc
 
