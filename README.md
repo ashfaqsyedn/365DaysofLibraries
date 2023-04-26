@@ -189,5 +189,17 @@ Day 30 -- Mobydq <br />
   
 Day 30 -- Dedupe <br />
   Description: Using fuzzy matching to perform de-duplication and entity resolution in data. <br />
-  Official Site : https://dedupe.io/, https://pypi.org/project/dedupe/
-  Github Site : https://github.com/dedupeio/dedupe
+  Official Site : https://dedupe.io/, https://pypi.org/project/dedupe/ <br />
+  Github Site : https://github.com/dedupeio/dedupe <br />
+  
+  
+Day 31 -- Datacleaner <br />
+  Description: A Python tool that automatically cleans data sets and readies them for analysis. <br />
+  Official Site : https://pypi.org/project/datacleaner/,  https://pypi.org/project/datacleaner/<br />
+  Github Site : https://dbmstools.com/tools/data-cleaner <br />
+  
+Day 32 -- PyJanitor <br />
+  Description : Clean pandas dataframe. <br />
+  Official Site : https://pypi.org/project/pyjanitor/, https://pyjanitor-devs.github.io/pyjanitor/ <br />
+  Github Site : 
+  
