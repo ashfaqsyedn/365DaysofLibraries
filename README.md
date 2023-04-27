@@ -255,10 +255,10 @@ Day 32 -- Milvus <br />
   Github Site : https://github.com/milvus-io/milvus <br />
   
   
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+Day 32 -- Pinecone <br />
+  Description : Large scale Vector Database<br />
+  Official Site : https://www.pinecone.io/<br />
+  Github Site : https://github.com/pinecone-io <br />
   
   
 Day 32 -- LlamaLab <br />
