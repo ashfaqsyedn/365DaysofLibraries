@@ -210,15 +210,15 @@ Day 32 -- LLamaIndex <br />
   
   
 Day 32 -- LLamaHub <br />
-  Description : Clean pandas dataframe. <br />
-  Official Site : https://pypi.org/project/pyjanitor/, https://pyjanitor-devs.github.io/pyjanitor/ <br />
-  Github Site : 
+  Description : Connect custom data sources to your LLM with one or more of loaders (via LlamaIndex or LangChain) <br />
+  Official Site : https://llamahub.ai/ <br />
+  Github Site : https://github.com/emptycrown/llama-hub <br />
   
   
-Day 32 -- PyJanitor <br />
-  Description : Clean pandas dataframe. <br />
-  Official Site : https://pypi.org/project/pyjanitor/, https://pyjanitor-devs.github.io/pyjanitor/ <br />
-  Github Site :
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
   
 
 Day 32 -- PyJanitor <br />
