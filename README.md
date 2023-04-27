@@ -241,3 +241,83 @@ Day 32 -- ChromaDB <br />
   Description : Build cutting edge projects using LLamaIndex.<br />
   Official Site : Open Ending OpenSource Embedding DB.<br />
   Github Site : https://github.com/chroma-core/chroma <br />
+  
+  
+Day 32 -- qDrant <br />
+  Description : Vector Databse<br />
+  Official Site : https://qdrant.tech/<br />
+  Github Site :https://github.com/qdrant/qdrant <br />
+  
+  
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+  
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+  
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+  
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+  
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+  
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+  
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+  
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
+
+Day 32 -- LlamaLab <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : <br />
+  Github Site : https://github.com/run-llama/llama-lab <br />
