@@ -232,8 +232,8 @@ Day 32 -- Dust <br />
   Github Site : https://github.com/dust-tt/dust <br />
   
   
-Day 32 -- PyJanitor <br />
-  Description : Clean pandas dataframe. <br />
-  Official Site : https://pypi.org/project/pyjanitor/, https://pyjanitor-devs.github.io/pyjanitor/ <br />
-  Github Site : 
+Day 32 -- Fixie <br />
+  Description : The automation platform for Large Language Models Build natural language agents that connect to your data, talk to APIs, and solve complex problems. <br />
+  Official Site : https://www.fixie.ai/ <br />
+  Github Site : https://github.com/fixie-ai/fixie-examples <br />
   
