@@ -261,10 +261,10 @@ Day 32 -- Pinecone <br />
   Github Site : https://github.com/pinecone-io <br />
   
   
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+Day 32 -- Humanloop <br />
+  Description : Platform for GPT-4 applications<br />
+  Official Site : https://humanloop.com/ <br />
+  Github Site : https://github.com/humanloop <br />
   
   
 Day 32 -- LlamaLab <br />
