@@ -237,3 +237,7 @@ Day 32 -- Fixie <br />
   Official Site : https://www.fixie.ai/ <br />
   Github Site : https://github.com/fixie-ai/fixie-examples <br />
   
+Day 32 -- ChromaDB <br />
+  Description : Build cutting edge projects using LLamaIndex.<br />
+  Official Site : Open Ending OpenSource Embedding DB.<br />
+  Github Site : https://github.com/chroma-core/chroma <br />
