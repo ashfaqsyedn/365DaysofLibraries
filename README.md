@@ -249,10 +249,10 @@ Day 32 -- qDrant <br />
   Github Site :https://github.com/qdrant/qdrant <br />
   
   
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+Day 32 -- Milvus <br />
+  Description : Cloud Native Vector Database<br />
+  Official Site : https://milvus.io/ <br />
+  Github Site : https://github.com/milvus-io/milvus <br />
   
   
 Day 32 -- LlamaLab <br />
