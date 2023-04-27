@@ -273,10 +273,10 @@ Day 32 -- honeyhive <br />
   Github Site : <br />
   
 
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+Day 32 -- Guardrails <br />
+  Description : Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs). <br />
+  Official Site :  https://shreyar.github.io/guardrails/ <br />
+  Github Site :  https://github.com/ShreyaR/guardrails <br />
   
 
 Day 32 -- LlamaLab <br />
