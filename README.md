@@ -267,10 +267,10 @@ Day 32 -- Humanloop <br />
   Github Site : https://github.com/humanloop <br />
   
   
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+Day 32 -- honeyhive <br />
+  Description : Optimization platform for LLM apps. Continuously improve apps with observability, evaluation, model management and fine tuning tools. <br />
+  Official Site :https://honeyhive.ai/ <br />
+  Github Site : <br />
   
 
 Day 32 -- LlamaLab <br />
