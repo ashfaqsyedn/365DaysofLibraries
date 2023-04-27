@@ -221,10 +221,10 @@ Day 32 -- LlamaLab <br />
   Github Site : https://github.com/run-llama/llama-lab <br />
   
 
-Day 32 -- PyJanitor <br />
-  Description : Clean pandas dataframe. <br />
-  Official Site : https://pypi.org/project/pyjanitor/, https://pyjanitor-devs.github.io/pyjanitor/ <br />
-  Github Site : 
+Day 32 -- Cognosis <br />
+  Description : Contains an application server and all the infrastructure you need to build LLM's with batteries included. <br />
+  Official Site : https://cognosis.ai/ <br />
+  Github Site : https://github.com/cognosisai/platform <br />
   
 Day 32 -- PyJanitor <br />
   Description : Clean pandas dataframe. <br />
