@@ -226,10 +226,10 @@ Day 32 -- Cognosis <br />
   Official Site : https://cognosis.ai/ <br />
   Github Site : https://github.com/cognosisai/platform <br />
   
-Day 32 -- PyJanitor <br />
-  Description : Clean pandas dataframe. <br />
-  Official Site : https://pypi.org/project/pyjanitor/, https://pyjanitor-devs.github.io/pyjanitor/ <br />
-  Github Site : 
+Day 32 -- Dust <br />
+  Description : Make and Deploy LLM apps. Build powerful workflows on top of LLMs and Semantic Search<br />
+  Official Site : https://dust.tt/ <br />
+  Github Site : https://github.com/dust-tt/dust <br />
   
   
 Day 32 -- PyJanitor <br />
