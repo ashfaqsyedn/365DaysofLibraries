@@ -279,10 +279,10 @@ Day 32 -- Guardrails <br />
   Github Site :  https://github.com/ShreyaR/guardrails <br />
   
 
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+Day 32 -- Ecco <br />
+  Description : Exploring and Explaining NLP models with visualization.<br />
+  Official Site : https://ecco.readthedocs.io/en/main/<br />
+  Github Site : https://github.com/jalammar/ecco <br />
   
 Day 32 -- LlamaLab <br />
   Description : Build cutting edge projects using LLamaIndex.<br />
