@@ -284,10 +284,10 @@ Day 32 -- Ecco <br />
   Official Site : https://ecco.readthedocs.io/en/main/<br />
   Github Site : https://github.com/jalammar/ecco <br />
   
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
+Day 32 -- Alpa <br />
+  Description : Training and scaling large scale neural networks.<br />
   Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+  Github Site : https://github.com/alpa-projects/alpa <br />
   
 Day 32 -- LlamaLab <br />
   Description : Build cutting edge projects using LLamaIndex.<br />
