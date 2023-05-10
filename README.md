@@ -289,10 +289,10 @@ Day 32 -- Alpa <br />
   Official Site : <br />
   Github Site : https://github.com/alpa-projects/alpa <br />
   
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
+Day 32 -- openai/shap-e <br />
+  Description : Generate 3D objects conditioned on text or images.<br />
   Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+  Github Site : https://github.com/openai/shap-e <br />
   
   
 Day 32 -- LlamaLab <br />
