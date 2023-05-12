@@ -295,10 +295,10 @@ Day 32 -- openai/shap-e <br />
   Github Site : https://github.com/openai/shap-e <br />
   
   
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+Day 32 -- SHERPA <br />
+  Description : Hyperparamter Optimization of ML Models.<br />
+  Official Site : https://sherpa.readthedocs.io/en/4.15.0/, https://parameter-sherpa.readthedocs.io/en/latest/<br />
+  Github Site :  <br />
   
   
 Day 32 -- LlamaLab <br />
