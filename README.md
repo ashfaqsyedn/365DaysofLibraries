@@ -301,10 +301,11 @@ Day 32 -- SHERPA <br />
   Github Site :  <br />
   
   
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+Day 32 -- Towhee <br />
+  Description : Towhee is an open-source machine learning pipeline
+that helps you encode your unstructured data into embeddings.<br />
+  Official Site :https://docs.towhee.io/Getting%20Started/quick-start/ <br />
+  Github Site :  https://github.com/towhee-io/towhee  <br />
   
   
 Day 32 -- LlamaLab <br />
