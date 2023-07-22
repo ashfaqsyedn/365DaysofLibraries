@@ -308,10 +308,10 @@ that helps you encode your unstructured data into embeddings.<br />
   Github Site :  https://github.com/towhee-io/towhee  <br />
   
   
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+Day 32 -- piperider.io <br />
+  Description : The Open-Source Data Reliability Toolkit for dbt Projects<br />
+  Official Site :https://www.piperider.io/ <br />
+  Github Site : https://github.com/InfuseAI/piperider<br />
   
 Day 32 -- LlamaLab <br />
   Description : Build cutting edge projects using LLamaIndex.<br />
