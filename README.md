@@ -311,3 +311,8 @@ Day 62 -- Hamilton <br />
 Official Site :https://hamilton.dagworks.io/en/latest//<br />
 Github Site:  https://github.com/DAGWorks-Inc/hamilton
 Other: https://www.tryhamilton.dev/
+
+Day 61 -- JupySQL <br />
+  Description : The Open-Source Data Reliability Toolkit for dbt Projects<br />
+  Official Site :https://ploomber.io/blog/jupysql/<br />
+  Github Site : https://github.com/ploomber/jupysql<br />
