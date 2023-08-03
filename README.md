@@ -179,7 +179,6 @@ Day 36 -- Mobydq <br />
   Official Site : https://ubisoft.github.io/mobydq/ <br />
   Github Site : https://github.com/ubisoft/mobydq <br />
   
-
 Day 37 -- Dedupe <br />
   Description: Using fuzzy matching to perform de-duplication and entity resolution in data. <br />
   Official Site : https://dedupe.io/, https://pypi.org/project/dedupe/ <br />
