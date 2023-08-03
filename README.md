@@ -297,5 +297,5 @@ Day 59 -- Alibi-Detect <br />
 
 Day 60 -- Metaflow <br />
   Description : Metaflow is a human-friendly Python library that makes it straightforward to develop, deploy, and operate various kinds of data-intensive applications, in particular those involving data science and ML. <br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+  Official Site : https://docs.metaflow.org/ <br />
+  Github Site : https://github.com/Netflix/metaflow <br />
