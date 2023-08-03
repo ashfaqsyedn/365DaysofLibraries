@@ -234,12 +234,10 @@ Day 32 -- qDrant <br />
   Official Site : https://qdrant.tech/<br />
   Github Site :https://github.com/qdrant/qdrant <br />
   
-  
 Day 32 -- Milvus <br />
   Description : Cloud Native Vector Database<br />
   Official Site : https://milvus.io/ <br />
   Github Site : https://github.com/milvus-io/milvus <br />
-  
   
 Day 32 -- Pinecone <br />
   Description : Large scale Vector Database<br />
