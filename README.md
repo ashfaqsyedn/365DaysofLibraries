@@ -312,7 +312,7 @@ Official Site :https://hamilton.dagworks.io/en/latest//<br />
 Github Site:  https://github.com/DAGWorks-Inc/hamilton
 Other: https://www.tryhamilton.dev/
 
-Day 63 -- JupySQL <br />
-  Description : The Open-Source Data Reliability Toolkit for dbt Projects<br />
-  Official Site :https://ploomber.io/blog/jupysql/<br />
-  Github Site : https://github.com/ploomber/jupysql<br />
+Day 63 -- Phoenix <br />
+  Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
+  Official Site  https://docs.arize.com/phoenix/<br />
+  Github Site : https://github.com/Arize-ai/phoenix
