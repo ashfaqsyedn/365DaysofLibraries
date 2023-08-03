@@ -148,7 +148,7 @@ Day 30 -- Great Expectations <br />
   Description: Allows you to write declarative data tests, get validation results from those tests and output a report that documents the current state of your data. <br />
   Official Site : https://greatexpectations.io/ <br />
   Github Site : https://github.com/great-expectations/great_expectations <br />
-  
+
 Day 31 -- Bulwark <br />
   Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests. <br />
   Official Site : https://pypi.org/project/bulwark/ <br />
