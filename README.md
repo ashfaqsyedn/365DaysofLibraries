@@ -165,7 +165,6 @@ Day 33 -- Voluptuous <br />
   Official Site : <br />
   Github Site : https://github.com/alecthomas/voluptuous <br />
   
-  
 Day 34 -- Opulent Pandas <br />
   Description: A df-focused version of Voluptuous. <br />
   Official Site : https://pypi.org/project/bulwark/ <br />
