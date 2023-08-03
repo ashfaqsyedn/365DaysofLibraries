@@ -150,78 +150,78 @@ Day 30 -- Great Expectations <br />
   Official Site : https://greatexpectations.io/ <br />
   Github Site : https://github.com/great-expectations/great_expectations <br />
   
-Day 30 -- Bulwark <br />
+Day 31 -- Bulwark <br />
   Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests. <br />
   Official Site : https://pypi.org/project/bulwark/ <br />
   Github Site : https://github.com/ZaxR/bulwark <br />
  
-Day 30 -- Engarde <br />
+Day 32 -- Engarde <br />
   Description: A precursor to bulwark, allows you to add decorators with data assertions to method that return pandas data frames. <br />
   Official Site : https://engarde.readthedocs.io/en/latest/ <br />
   Github Site : https://github.com/engarde-dev/engarde <br />
   
   
-Day 30 -- Voluptuous <br />
+Day 33 -- Voluptuous <br />
   Description: Specify a schema to validate JSON/YAML. <br />
   Official Site : <br />
   Github Site : https://github.com/alecthomas/voluptuous <br />
   
   
-Day 30 -- Opulent Pandas <br />
+Day 34 -- Opulent Pandas <br />
   Description: A df-focused version of Voluptuous. <br />
   Official Site : https://pypi.org/project/bulwark/ <br />
   Github Site : https://github.com/ZaxR/bulwark <br />
   
   
-Day 30 -- Bulwark <br />
+Day 35 -- Bulwark <br />
   Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests. <br />
   Official Site : https://pypi.org/project/bulwark/ <br />
   Github Site : https://github.com/ZaxR/bulwark <br />
   
   
 
-Day 30 -- Mobydq <br />
+Day 36 -- Mobydq <br />
   Description: Tool to automate data quality checks on their data pipeline, capture data quality issues and trigger alerts in case of anomaly, regardless of data sources they use. <br />
   Official Site : https://ubisoft.github.io/mobydq/ <br />
   Github Site : https://github.com/ubisoft/mobydq <br />
   
   
   
-Day 30 -- Dedupe <br />
+Day 37 -- Dedupe <br />
   Description: Using fuzzy matching to perform de-duplication and entity resolution in data. <br />
   Official Site : https://dedupe.io/, https://pypi.org/project/dedupe/ <br />
   Github Site : https://github.com/dedupeio/dedupe <br />
   
   
-Day 31 -- Datacleaner <br />
+Day 38 -- Datacleaner <br />
   Description: A Python tool that automatically cleans data sets and readies them for analysis. <br />
   Official Site : https://pypi.org/project/datacleaner/,  https://pypi.org/project/datacleaner/<br />
   Github Site : https://dbmstools.com/tools/data-cleaner <br />
   
-Day 32 -- PyJanitor <br />
+Day 39 -- PyJanitor <br />
   Description : Clean pandas dataframe. <br />
   Official Site : https://pypi.org/project/pyjanitor/, https://pyjanitor-devs.github.io/pyjanitor/ <br />
   Github Site : 
   
-Day 32 -- Helm <br />
+Day 40 -- Helm <br />
   Description : Holistic Evaluation of Language Models <br />
   Official Site : https://crfm.stanford.edu/helm/latest/ <br />
   Github Site : https://github.com/stanford-crfm/helm <br />
   
   
-Day 32 -- LLamaHub <br />
+Day 41 -- LLamaHub <br />
   Description : Connect custom data sources to your LLM with one or more of loaders (via LlamaIndex or LangChain) <br />
   Official Site : https://llamahub.ai/ <br />
   Github Site : https://github.com/emptycrown/llama-hub <br />
   
   
-Day 32 -- LlamaLab <br />
+Day 42 -- LlamaLab <br />
   Description : Build cutting edge projects using LLamaIndex.<br />
   Official Site : <br />
   Github Site : https://github.com/run-llama/llama-lab <br />
   
 
-Day 32 -- Cognosis <br />
+Day 43 -- Cognosis <br />
   Description : Contains an application server and all the infrastructure you need to build LLM's with batteries included. <br />
   Official Site : https://cognosis.ai/ <br />
   Github Site : https://github.com/cognosisai/platform <br />
