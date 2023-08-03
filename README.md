@@ -129,7 +129,6 @@ Day 26 -- tdda  <br />
   Official Site: https://www.tdda.info/  <br />
   Github Site: https://github.com/tdda/tdda <br />
   
-  
 Day 27 -- Pandas Profiling  <br />
   Description: Provide one line EDA solution in consistent and fast manner. A.<br />
   Official Site:https://pypi.org/project/pandas-profiling/  <br />
