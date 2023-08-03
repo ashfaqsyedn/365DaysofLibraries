@@ -229,7 +229,6 @@ Day 32 -- ChromaDB <br />
   Official Site : Open Ending OpenSource Embedding DB.<br />
   Github Site : https://github.com/chroma-core/chroma <br />
   
-  
 Day 32 -- qDrant <br />
   Description : Vector Databse<br />
   Official Site : https://qdrant.tech/<br />
