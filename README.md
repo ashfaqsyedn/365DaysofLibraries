@@ -219,31 +219,30 @@ Day 44 -- Dust <br />
   Official Site : https://dust.tt/ <br />
   Github Site : https://github.com/dust-tt/dust <br />
   
-Day 32 -- Fixie <br />
+Day 45 -- Fixie <br />
   Description : The automation platform for Large Language Models Build natural language agents that connect to your data, talk to APIs, and solve complex problems. <br />
   Official Site : https://www.fixie.ai/ <br />
   Github Site : https://github.com/fixie-ai/fixie-examples <br />
   
-Day 32 -- ChromaDB <br />
+Day 46 -- ChromaDB <br />
   Description : Build cutting edge projects using LLamaIndex.<br />
   Official Site : Open Ending OpenSource Embedding DB.<br />
   Github Site : https://github.com/chroma-core/chroma <br />
   
-Day 32 -- qDrant <br />
+Day 47 -- qDrant <br />
   Description : Vector Databse<br />
   Official Site : https://qdrant.tech/<br />
   Github Site :https://github.com/qdrant/qdrant <br />
   
-Day 32 -- Milvus <br />
+Day 48 -- Milvus <br />
   Description : Cloud Native Vector Database<br />
   Official Site : https://milvus.io/ <br />
   Github Site : https://github.com/milvus-io/milvus <br />
   
-Day 32 -- Pinecone <br />
+Day 49 -- Pinecone <br />
   Description : Large scale Vector Database<br />
   Official Site : https://www.pinecone.io/<br />
   Github Site : https://github.com/pinecone-io <br />
-  
   
 Day 32 -- Humanloop <br />
   Description : Platform for GPT-4 applications<br />
