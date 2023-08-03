@@ -38,7 +38,7 @@ Day 8 -- Grouparoo <br />
   Description: Data synchronisation tool that helps to move data between data warehouses and all of data cloud tools.<br />
   Official Site: https://www.grouparoo.com/ <br />
   Github Link: https://github.com/grouparoo/grouparoo <br />
- 
+
 Day 9 -- FuseML <br />
   Description: Integrating various ml tools for mlops operations. Coherent stack of AI/ML tools to run ml operations.<br />
   Official Site: https://fuseml.github.io/ <br/>
