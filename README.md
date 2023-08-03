@@ -178,15 +178,12 @@ Day 35 -- Bulwark <br />
   Official Site : https://pypi.org/project/bulwark/ <br />
   Github Site : https://github.com/ZaxR/bulwark <br />
   
-  
-
 Day 36 -- Mobydq <br />
   Description: Tool to automate data quality checks on their data pipeline, capture data quality issues and trigger alerts in case of anomaly, regardless of data sources they use. <br />
   Official Site : https://ubisoft.github.io/mobydq/ <br />
   Github Site : https://github.com/ubisoft/mobydq <br />
   
-  
-  
+
 Day 37 -- Dedupe <br />
   Description: Using fuzzy matching to perform de-duplication and entity resolution in data. <br />
   Official Site : https://dedupe.io/, https://pypi.org/project/dedupe/ <br />
