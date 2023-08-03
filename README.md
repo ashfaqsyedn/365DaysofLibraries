@@ -244,25 +244,22 @@ Day 49 -- Pinecone <br />
   Official Site : https://www.pinecone.io/<br />
   Github Site : https://github.com/pinecone-io <br />
   
-Day 32 -- Humanloop <br />
+Day 50 -- Humanloop <br />
   Description : Platform for GPT-4 applications<br />
   Official Site : https://humanloop.com/ <br />
   Github Site : https://github.com/humanloop <br />
   
-  
-Day 32 -- honeyhive <br />
+Day 51 -- honeyhive <br />
   Description : Optimization platform for LLM apps. Continuously improve apps with observability, evaluation, model management and fine tuning tools. <br />
   Official Site :https://honeyhive.ai/ <br />
   Github Site : <br />
-  
 
-Day 32 -- Guardrails <br />
+Day 52 -- Guardrails <br />
   Description : Guardrails is a Python package that lets a user add structure, type and quality guarantees to the outputs of large language models (LLMs). <br />
   Official Site :  https://shreyar.github.io/guardrails/ <br />
-  Github Site :  https://github.com/ShreyaR/guardrails <br />
-  
+  Github Site :  https://github.com/ShreyaR/guardrails <br />  
 
-Day 32 -- Ecco <br />
+Day 53 -- Ecco <br />
   Description : Exploring and Explaining NLP models with visualization.<br />
   Official Site : https://ecco.readthedocs.io/en/main/<br />
   Github Site : https://github.com/jalammar/ecco <br />
