@@ -264,18 +264,17 @@ Day 53 -- Ecco <br />
   Official Site : https://ecco.readthedocs.io/en/main/<br />
   Github Site : https://github.com/jalammar/ecco <br />
   
-Day 32 -- Alpa <br />
+Day 54 -- Alpa <br />
   Description : Training and scaling large scale neural networks.<br />
   Official Site : <br />
   Github Site : https://github.com/alpa-projects/alpa <br />
   
-Day 32 -- openai/shap-e <br />
+Day 55 -- openai/shap-e <br />
   Description : Generate 3D objects conditioned on text or images.<br />
   Official Site : <br />
   Github Site : https://github.com/openai/shap-e <br />
   
-  
-Day 32 -- SHERPA <br />
+Day 56 -- SHERPA <br />
   Description : Hyperparamter Optimization of ML Models.<br />
   Official Site : https://sherpa.readthedocs.io/en/4.15.0/, https://parameter-sherpa.readthedocs.io/en/latest/<br />
   Github Site :  <br />
