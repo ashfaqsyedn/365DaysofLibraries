@@ -299,4 +299,8 @@ Day 60 -- Metaflow <br />
   Description : Metaflow is a human-friendly Python library that makes it straightforward to develop, deploy, and operate various kinds of data-intensive applications, in particular those involving data science and ML. <br />
   Official Site : https://docs.metaflow.org/ <br />
   Github Site : https://github.com/Netflix/metaflow <br />
- 
+
+Day 61 -- JupySQL <br />
+  Description : The Open-Source Data Reliability Toolkit for dbt Projects<br />
+  Official Site :https://www.piperider.io/ <br />
+  Github Site : https://github.com/InfuseAI/piperider<br />
