@@ -210,23 +210,20 @@ Day 41 -- LLamaHub <br />
   Official Site : https://llamahub.ai/ <br />
   Github Site : https://github.com/emptycrown/llama-hub <br />
   
-  
 Day 42 -- LlamaLab <br />
   Description : Build cutting edge projects using LLamaIndex.<br />
   Official Site : <br />
   Github Site : https://github.com/run-llama/llama-lab <br />
   
-
 Day 43 -- Cognosis <br />
   Description : Contains an application server and all the infrastructure you need to build LLM's with batteries included. <br />
   Official Site : https://cognosis.ai/ <br />
   Github Site : https://github.com/cognosisai/platform <br />
   
-Day 32 -- Dust <br />
+Day 44 -- Dust <br />
   Description : Make and Deploy LLM apps. Build powerful workflows on top of LLMs and Semantic Search<br />
   Official Site : https://dust.tt/ <br />
   Github Site : https://github.com/dust-tt/dust <br />
-  
   
 Day 32 -- Fixie <br />
   Description : The automation platform for Large Language Models Build natural language agents that connect to your data, talk to APIs, and solve complex problems. <br />
