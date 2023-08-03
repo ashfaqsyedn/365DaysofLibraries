@@ -158,7 +158,7 @@ Day 32 -- Engarde <br />
   Description: A precursor to bulwark, allows you to add decorators with data assertions to method that return pandas data frames. <br />
   Official Site : https://engarde.readthedocs.io/en/latest/ <br />
   Github Site : https://github.com/engarde-dev/engarde <br />
-  
+
 Day 33 -- Voluptuous <br />
   Description: Specify a schema to validate JSON/YAML. <br />
   Official Site : <br />
