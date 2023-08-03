@@ -279,25 +279,23 @@ Day 56 -- SHERPA <br />
   Official Site : https://sherpa.readthedocs.io/en/4.15.0/, https://parameter-sherpa.readthedocs.io/en/latest/<br />
   Github Site :  <br />
   
-  
-Day 32 -- Towhee <br />
+Day 57 -- Towhee <br />
   Description : Towhee is an open-source machine learning pipeline
 that helps you encode your unstructured data into embeddings.<br />
   Official Site :https://docs.towhee.io/Getting%20Started/quick-start/ <br />
   Github Site :  https://github.com/towhee-io/towhee  <br />
   
-  
-Day 32 -- piperider.io <br />
+Day 58 -- piperider.io <br />
   Description : The Open-Source Data Reliability Toolkit for dbt Projects<br />
   Official Site :https://www.piperider.io/ <br />
   Github Site : https://github.com/InfuseAI/piperider<br />
   
-Day 32 -- LlamaLab <br />
-  Description : Build cutting edge projects using LLamaIndex.<br />
-  Official Site : <br />
-  Github Site : https://github.com/run-llama/llama-lab <br />
+Day 59 -- Alibi-Detect <br />
+  Description : Alibi Detect is an open source Python library focused on outlier, adversarial and drift detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series. Both TensorFlow and PyTorch backends are supported for drift detection.<br />
+  Official Site : https://docs.seldon.io/projects/alibi-detect/en/stable/ <br />
+  Github Site : https://github.com/SeldonIO/alibi-detect <br />
 
-Day 32 -- LlamaLab <br />
+Day 60 -- LlamaLab <br />
   Description : Build cutting edge projects using LLamaIndex.<br />
   Official Site : <br />
   Github Site : https://github.com/run-llama/llama-lab <br />
