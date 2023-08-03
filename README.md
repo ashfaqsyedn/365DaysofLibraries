@@ -199,7 +199,6 @@ Day 40 -- Helm <br />
   Official Site : https://crfm.stanford.edu/helm/latest/ <br />
   Github Site : https://github.com/stanford-crfm/helm <br />
   
-  
 Day 41 -- LLamaHub <br />
   Description : Connect custom data sources to your LLM with one or more of loaders (via LlamaIndex or LangChain) <br />
   Official Site : https://llamahub.ai/ <br />
