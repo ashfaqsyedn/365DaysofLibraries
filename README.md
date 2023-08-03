@@ -153,7 +153,7 @@ Day 31 -- Bulwark <br />
   Description: Data testing framework that lets you add test on methods that return pandas dataframes. Has built-in tests and allows custom methods for tests. <br />
   Official Site : https://pypi.org/project/bulwark/ <br />
   Github Site : https://github.com/ZaxR/bulwark <br />
- 
+
 Day 32 -- Engarde <br />
   Description: A precursor to bulwark, allows you to add decorators with data assertions to method that return pandas data frames. <br />
   Official Site : https://engarde.readthedocs.io/en/latest/ <br />
