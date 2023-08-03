@@ -303,4 +303,4 @@ Day 60 -- Metaflow <br />
 Day 61 -- JupySQL <br />
   Description : The Open-Source Data Reliability Toolkit for dbt Projects<br />
   Official Site :https://www.piperider.io/ <br />
-  Github Site : https://github.com/InfuseAI/piperider<br />
+  Github Site : https://github.com/ploomber/jupysql<br />
