@@ -159,7 +159,6 @@ Day 32 -- Engarde <br />
   Official Site : https://engarde.readthedocs.io/en/latest/ <br />
   Github Site : https://github.com/engarde-dev/engarde <br />
   
-  
 Day 33 -- Voluptuous <br />
   Description: Specify a schema to validate JSON/YAML. <br />
   Official Site : <br />
