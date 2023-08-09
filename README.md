@@ -317,16 +317,15 @@ Day 63 -- Phoenix <br />
   Official Site  https://docs.arize.com/phoenix/<br />
   Github Site : https://github.com/Arize-ai/phoenix <br />
 
-
-Day 63 -- Quix Streams <br />
+Day 64 -- Quix Streams <br />
   Description :: a cloud-native library for processing data in Kafka using pure Python. <br />
   Official Site : https://quix-2023.webflow.io/ <br />
   Github Site : https://github.com/quixio/quix-streams
 
-Day 63 -- Phoenix <br />
-  Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
-  Official Site  https://docs.arize.com/phoenix/<br />
-  Github Site : https://github.com/Arize-ai/phoenix
+Day 65 -- Dash <br />
+  Description :  Python framework for building ML & data science web apps.<br />
+  Official Site : https://dash.plotly.com/tutorial <br />
+  Github Site :  https://github.com/plotly/dash <br />
 
 Day 63 -- Phoenix <br />
   Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
