@@ -316,3 +316,29 @@ Day 63 -- Phoenix <br />
   Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
   Official Site  https://docs.arize.com/phoenix/<br />
   Github Site : https://github.com/Arize-ai/phoenix
+
+
+Day 63 -- Phoenix <br />
+  Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
+  Official Site  https://docs.arize.com/phoenix/<br />
+  Github Site : https://github.com/Arize-ai/phoenix
+
+Day 63 -- Phoenix <br />
+  Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
+  Official Site  https://docs.arize.com/phoenix/<br />
+  Github Site : https://github.com/Arize-ai/phoenix
+
+Day 63 -- Phoenix <br />
+  Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
+  Official Site  https://docs.arize.com/phoenix/<br />
+  Github Site : https://github.com/Arize-ai/phoenix
+
+Day 63 -- Phoenix <br />
+  Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
+  Official Site  https://docs.arize.com/phoenix/<br />
+  Github Site : https://github.com/Arize-ai/phoenix
+
+Day 63 -- Phoenix <br />
+  Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
+  Official Site  https://docs.arize.com/phoenix/<br />
+  Github Site : https://github.com/Arize-ai/phoenix
