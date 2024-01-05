@@ -327,17 +327,17 @@ Day 65 -- Dash <br />
   Official Site : https://dash.plotly.com/tutorial <br />
   Github Site :  https://github.com/plotly/dash <br />
 
-Day 63 -- Phoenix <br />
-  Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
-  Official Site  https://docs.arize.com/phoenix/<br />
-  Github Site : https://github.com/Arize-ai/phoenix
+Day 66 -- Outerbounds <br />
+  Description : Infrastructure for ML , AI and DataScience<br />
+  Official Site  https://outerbounds.com//<br />
+  Github Site : https://github.com/outerbounds
 
-Day 63 -- Phoenix <br />
-  Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
-  Official Site  https://docs.arize.com/phoenix/<br />
-  Github Site : https://github.com/Arize-ai/phoenix
-
-Day 63 -- Phoenix <br />
-  Description : Phoenix provides MLOps insights at lightning speed with zero-config observability for model drift, performance, and data quality<br />
-  Official Site  https://docs.arize.com/phoenix/<br />
-  Github Site : https://github.com/Arize-ai/phoenix
+Day 67 -- dstack.ai <br />
+  Description : Make it easy for ML Teams to automate running dev environments and tasks in their cloud<br />
+  Official Site https://dstack.ai/<br />
+  Github Site : https://github.com/dstackai/dstack<br />
+  
+Day 68 -- Alibi Detect <br />
+  Description : an open source Python library focused on outlier, adversarial and drift detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series.<br />
+  Official Site  https://github.com/SeldonIO/alibi-detect/<br />
+  Github Site :  https://github.com/SeldonIO/alibi-detect
