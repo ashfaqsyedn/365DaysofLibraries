@@ -337,7 +337,52 @@ Day 67 -- dstack.ai <br />
   Official Site https://dstack.ai/<br />
   Github Site : https://github.com/dstackai/dstack<br />
   
-Day 68 -- Alibi Detect <br />
-  Description : an open source Python library focused on outlier, adversarial and drift detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series.<br />
-  Official Site  https://github.com/SeldonIO/alibi-detect/<br />
-  Github Site :  https://github.com/SeldonIO/alibi-detect
+Day 68 -- Mage <br />
+  Description : Building and deploying data pipelines<br />
+  Official Site  https://www.mage.ai/<br />
+  Github Site :  https://github.com/mage-ai/mage-ai<br />
+
+Day 69 -- Dozer:  <br />
+  Description : Dozer: connect any data source, combine them in real-time and instantly get low-latency data APIs.<br />
+  Official Site  https://getdozer.io/<br />
+  Github Site :  : https://github.com/getdozer/dozer<br />
+
+Day 70 -- Autolabel <br />
+  Description : Autolabel: Access to large, clean, and diverse labeled datasets is a critical component for any machine learning effort to be successful. State-of-the-art LLMs like GPT-4 are able to automatically label data with high accuracy, and at a fraction of the cost and time compared to manual labeling.<br />
+  Official Site  : https://docs.refuel.ai//<br />
+  Github Site : : https://github.com/refuel-ai/autolabel<br />
+
+Day 71 -- dlt <br />
+  Description : an open source Python library that makes data loading easy<br />
+  Official Site  https://dlthub.com/<br />
+  Github Site :  https://github.com/dlt-hub/dlt<br />
+
+Day 72 -- Determined <br />
+  Description : a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management.<br />
+  Official Site : https://www.determined.ai/<br />
+  Github Site :  https://github.com/determined-ai/determined<br />
+
+Day 73 -- CNDI <br />
+  Description : CNDI: a tool with which to deploy GitOps enabled Kubernetes application clusters on any platform as quickly and easily as possible. The best way to understand this process is to look at it as a lifecycle.<br />
+  Official Site : https://cndi.dev<br />
+  Github Site :  https://github.com/polyseam/cndi<br />
+
+Day 74 -- CrateDB <br />
+  Description : CrateDB: a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries
+<br />
+  Official Site : https://cratedb.com/<br />
+  Github Site :  https://github.com/crate/crate<br />
+
+Day 75 -- SuperDuperDB <br />
+  Description : an open-source framework for integrating AI directly with your existing databases, including streaming inference, scalable model training, and vector search. <br />
+  Official Site : https://www.superduperdb.com/<br />
+  Github Site : https://github.com/SuperDuperDB/superduperdb <br />
+
+Day 76 -- Timeplus Proton <br />
+  Description : a SQL database for both historical and streaming data, with a strong focus on simplicity, performance, and openness. Written in C++. Powered by ClickHouse.<br />
+  Official Site : https://github.com/timeplus-io <br/>
+  Github Site :  https://github.com/timeplus-io/proton<br/>
+
+
+
+
