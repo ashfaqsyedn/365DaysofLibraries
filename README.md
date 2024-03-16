@@ -383,6 +383,16 @@ Day 76 -- Timeplus Proton <br />
   Official Site : https://github.com/timeplus-io <br/>
   Github Site :  https://github.com/timeplus-io/proton<br/>
 
+Day 77 -- Encord active <br />
+  Description : Encord Active: an open-source toolkit to test, validate, and evaluate your models. Surface, curate, and prioritize the most valuable data for labeling to supercharge model performance. <br />
+  Official Site : https://docs.encord.com/ <br />
+  Github Site : https://github.com/encord-team/encord-active <br />
+
+Day 78 -- Fluvio <br />
+  Description : Fluvio: a lightweight high-performance distributed data streaming system written in Rust and Web Assembly. <br />
+  Official Site : https://github.com/infinyon/fluvio <br /> 
+  Github Site : https://github.com/infinyon/fluvio <br />
+
 
 
 
