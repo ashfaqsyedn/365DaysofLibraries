@@ -392,7 +392,9 @@ Day 78 -- Fluvio <br />
   Description : Fluvio: a lightweight high-performance distributed data streaming system written in Rust and Web Assembly. <br />
   Official Site : https://github.com/infinyon/fluvio <br /> 
   Github Site : https://github.com/infinyon/fluvio <br />
-
+Day 79 -- Composer <br />
+  Description : Composer: Built on top of PyTorch, the Composer library makes it easier to implement distributed training workflows on large-scale clusters.
+  Official Site : 
 
 
 
