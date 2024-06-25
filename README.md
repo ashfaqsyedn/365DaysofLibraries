@@ -393,8 +393,12 @@ Day 78 -- Fluvio <br />
   Official Site : https://github.com/infinyon/fluvio <br /> 
   Github Site : https://github.com/infinyon/fluvio <br />
 Day 79 -- Composer <br />
-  Description : Composer: Built on top of PyTorch, the Composer library makes it easier to implement distributed training workflows on large-scale clusters.
-  Official Site : 
-
+  Description : Composer: Built on top of PyTorch, the Composer library makes it easier to implement distributed training workflows on large-scale clusters.<br />
+  Official Site :  <br />
+  Github Site: https://github.com/mosaicml/composer <br />
+Day 80 : FiftyOne <br/>
+  Description : FiftyOne is the open source toolkit for building high-quality datasets and computer vision models. <br />
+  Official Site : https://voxel51.com/fiftyone/ <br />
+  Github Site: https://github.com/voxel51/fiftyone <br />
 
 
