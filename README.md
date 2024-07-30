@@ -1,7 +1,7 @@
 # 365DaysofLibraries
 Day 1 -- Obsei <br />
   Description: An Open Source AI powered automation tools.<br />
-  Official Site: https://obsei.com/ <br />
+  Official Site: https://obsei.com/. <br />
   Github Site: https://github.com/obsei/obsei <br />
 
 Day 2 -- Model Store <br />
