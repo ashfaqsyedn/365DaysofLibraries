@@ -2,7 +2,7 @@
 Day 1 -- Obsei <br />
   Description: An Open Source AI powered automation tools.<br />
   Official Site: https://obsei.com/. <br />
-  Github Site: https://github.com/obsei/obsei <br />
+  Github Site: https://github.com/obsei/obsei. <br />
 
 Day 2 -- Model Store <br />
   Description: Machine Learning library to version, export, save and download ml models in choice of storage. <br />
