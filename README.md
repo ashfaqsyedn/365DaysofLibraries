@@ -7,7 +7,7 @@ Day 1 -- Obsei <br />
 Day 2 -- Model Store <br />
   Description: Machine Learning library to version, export, save and download ml models in choice of storage. <br />
   Official Site: <br />
-  Github Site: https://github.com/operatorai/modelstore<br />
+  Github Site: https://github.com/operatorai/modelstore. <br />
 
 Day 3 -- Chassis <br />
   Description: Turns ML Models into production contatiners. <br />
