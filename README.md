@@ -11,7 +11,7 @@ Day 2 -- Model Store <br />
 
 Day 3 -- Chassis. <br />
   Description: Turns ML Models into production contatiners. <br />
-  Official Site: https://chassis.ml/ <br />
+  Official Site: https://chassis.ml. <br />
   Github Site: https://github.com/modzy/chassis <br />
   
 Day 4 -- Zingg <br />
