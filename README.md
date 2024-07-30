@@ -401,5 +401,10 @@ Day 80 : FiftyOne <br/>
   Official Site : https://voxel51.com/fiftyone/ <br />
   Github Site: https://github.com/voxel51/fiftyone <br />
 Day 81: Probabl.ai <br/>
+  Description : Open Source Commons for AI, Machine Learning, and Data Science. <br />
+  Official Site : https://probabl.ai/ <br />
+  Github Site : https://github.com/probabl-ai <br />
+Day 82: JuiceFS <br/>
+  Description: 
 
 
