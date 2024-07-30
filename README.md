@@ -9,7 +9,7 @@ Day 2 -- Model Store <br />
   Official Site: <br />
   Github Site: https://github.com/operatorai/modelstore. <br />
 
-Day 3 -- Chassis <br />
+Day 3 -- Chassis. <br />
   Description: Turns ML Models into production contatiners. <br />
   Official Site: https://chassis.ml/ <br />
   Github Site: https://github.com/modzy/chassis <br />
