@@ -405,6 +405,8 @@ Day 81: Probabl.ai <br/>
   Official Site : https://probabl.ai/ <br />
   Github Site : https://github.com/probabl-ai <br />
 Day 82: JuiceFS <br/>
-  Description: 
+  Description: A High-Performance, Cloud-Native, Distributed File System Elastic, Multi-Cloud, Compatible with POSIX, HDFS, and S3 Protocols <br />
+  Official Site : https://juicefs.com/en/ <br />
+  Github Site : https://github.com/juicedata/juicefs <br/>
 
 
