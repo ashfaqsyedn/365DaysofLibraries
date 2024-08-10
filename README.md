@@ -409,10 +409,10 @@ Day 82: JuiceFS <br/>
   Official Site : https://juicefs.com/en/ <br />
   Github Site : https://github.com/juicedata/juicefs <br/>
 
-Day 82: JuiceFS <br/>
-  Description: A High-Performance, Cloud-Native, Distributed File System Elastic, Multi-Cloud, Compatible with POSIX, HDFS, and S3 Protocols. <br />
-  Official Site : https://juicefs.com/en/ <br />
-  Github Site : https://github.com/juicedata/juicefs <br/>
+Day 83: Paradedb <br/>
+  Description: PostgreSQL for search and analytics. <br />
+  Official Site : https://www.paradedb.com/ <br />
+  Github Site : https://github.com/paradedb/paradedb <br/>
 
 Day 82: JuiceFS <br/>
   Description: A High-Performance, Cloud-Native, Distributed File System Elastic, Multi-Cloud, Compatible with POSIX, HDFS, and S3 Protocols. <br />
