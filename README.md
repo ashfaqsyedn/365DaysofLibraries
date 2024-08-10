@@ -467,10 +467,10 @@ Day 92: Zulip <br/>
   Github Site :  <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 93: Meilisearch<br/>
+  Description: ⚡ A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow 🔍 <br />
+  Official Site : https://www.meilisearch.com/ <br />
+  Github Site :  https://github.com/meilisearch/meilisearch <br/>
 
 
 Day 83: <br/>
