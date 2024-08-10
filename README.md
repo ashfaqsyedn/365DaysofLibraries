@@ -425,22 +425,22 @@ Day 85: OpenOberve. <br/>
   Github Site :  https://github.com/openobserve/openobserve. <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 86: TreeSitter. <br/>
+  Description:  Tree-sitter is a parser generator tool and an incremental parsing library. It can build a concrete syntax tree for a source file and efficiently update the syntax tree as the source file is edited. Tree-sitter aims to be.<br />
+  Official Site : https://tree-sitter.github.io/tree-sitter/ <br />
+  Github Site :  https://github.com/tree-sitter/tree-sitter?tab=readme-ov-file. <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 87: SurrealDB<br/>
+  Description:  SurrealDB is an end-to-end cloud-native database designed for modern applications, including web, mobile, serverless, Jamstack, backend, and traditional applications. With SurrealDB, you can simplify your database and API infrastructure, reduce development time, and build secure, performant apps quickly and cost-effectively.<br />
+  Official Site : https://surrealdb.com/ <br />
+  Github Site :  https://github.com/surrealdb/surrealdb <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 88: Mountpoint S3<br/>
+  Description:  Mountpoint for Amazon S3 is a simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. With Mountpoint for Amazon S3, your applications can access objects stored in Amazon S3 through file operations like open and read. Mountpoint for Amazon S3 automatically translates these operations into S3 object API calls, giving your applications access to the elastic storage and throughput of Amazon S3 through a file interface.<br />
+  Official Site : https://docs.aws.amazon.com/AmazonS3/latest/userguide/mountpoint.html <br />
+  Github Site :  https://github.com/awslabs/mountpoint-s3<br/>
 
 
 Day 83: <br/>
