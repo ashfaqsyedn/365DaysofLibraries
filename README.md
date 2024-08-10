@@ -461,9 +461,9 @@ Day 91: Ibis <br/>
   Github Site : https://github.com/ibis-project/ibis  <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
+Day 92: Zulip <br/>
+  Description: Zulip Team chat <br />
+  Official Site : https://zulip.com/ <br />
   Github Site :  <br/>
 
 
