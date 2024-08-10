@@ -473,10 +473,10 @@ Day 93: Meilisearch<br/>
   Github Site :  https://github.com/meilisearch/meilisearch <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 94: InfluxDB <br/>
+  Description:  InfluxDB is an open-source time series database developed by the company InfluxData. It is used for storage and retrieval of time series data in fields such as operations monitoring, application metrics, <br />
+  Official Site : https://www.influxdata.com/ <br />
+  Github Site :  https://github.com/influxdata/influxdb?tab=readme-ov-file <br/>
 
 
 Day 83: <br/>
