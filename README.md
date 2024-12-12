@@ -485,10 +485,10 @@ Day 95: Kedro<br/>
   Github Site : https://github.com/kedro-org/kedro <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 96: SQLMesh<br/>
+  Description: Understands SQL and Python code <br />
+  Official Site : https://sqlmesh.com/ <br />
+  Github Site : https://github.com/TobikoData/sqlmesh  <br/>
 
 
 Day 83: <br/>
