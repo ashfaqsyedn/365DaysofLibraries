@@ -491,10 +491,10 @@ Day 96: SQLMesh<br/>
   Github Site : https://github.com/TobikoData/sqlmesh  <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 97: dstack SSH Fleets <br/>
+  Description: Open Source Container orchestration engine for AI Models <br />
+  Official Site : https://dstack.ai/docs/concepts/fleets/ <br />
+  Github Site : https://github.com/dstackai/dstack <br/>
 
 
 Day 83: <br/>
