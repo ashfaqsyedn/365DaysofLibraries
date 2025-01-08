@@ -497,10 +497,10 @@ Day 97: dstack SSH Fleets <br/>
   Github Site : https://github.com/dstackai/dstack <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 98: Inflect <br/>
+  Description: inflect.py - Accurately generate plurals, singular nouns, ordinals, indefinite articles, and word-based representations of numbers. This functionality is limited to English. <br />
+  Official Site : https://inflect.readthedocs.io/en/latest/ <br />
+  Github Site :  https://github.com/jaraco/inflect <br/>
 
 
 Day 83: <br/>
