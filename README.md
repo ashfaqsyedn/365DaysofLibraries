@@ -550,7 +550,7 @@ Day 83:  PyForest <br/>
   Github Site :  https://github.com/lux-org/lux <br/>
 
 
-Day 83: <br/>
+Day 83: PyTorch Fabric<br/>
   Description:  <br />
   Official Site : <br />
   Github Site :  <br/>
