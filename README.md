@@ -562,10 +562,10 @@ Day 83:  PyGWalker <br/>
   Github Site :  https://github.com/Kanaries/pygwalker <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 83: Fire Ducks <br/>
+  Description:  Faster than Pandas, Polars, CuDF<br />
+  Official Site :https://fireducks-dev.github.io/ <br />
+  Github Site :  https://github.com/fireducks-dev/fireducks <br/>
 
 
 Day 83: <br/>
