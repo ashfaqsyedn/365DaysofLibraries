@@ -532,10 +532,10 @@ Day 83: Pivot Table<br/>
   Official Site :https://pivottable.js.org/examples/ <br />
   Github Site :https://github.com/nicolaskruchten/pivottable  <br/>
 
-Day 83: <br/>
-  Description:  <br />
+Day 83: Skimpy <br/>
+  Description: A light weight tool for creating summary statistics from dataframes. <br />
   Official Site : <br />
-  Github Site :  <br/>
+  Github Site :  https://aeturrell.github.io/skimpy/<br/>
 
 
 Day 83: <br/>
