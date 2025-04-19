@@ -544,9 +544,9 @@ Day 83: Lux <br/>
   Github Site :  <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
+Day 83:  PyForest <br/>
+  Description:  Lazy-import of all popular Python Data Science libraries. Stop writing the same imports over and over again. <br />
+  Official Site : https://pypi.org/project/pyforest/ <br />
   Github Site :  https://github.com/lux-org/lux <br/>
 
 
