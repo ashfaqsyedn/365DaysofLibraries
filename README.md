@@ -556,10 +556,10 @@ Day 83: PyTorch Fabric<br/>
   Github Site :  <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 83:  PyGWalker <br/>
+  Description:  PyGWalker turns your data into interactive visualization apps with one line of code, and enables you to share your apps with one click. <br />
+  Official Site : https://kanaries.net/pygwalker <br />
+  Github Site :  https://github.com/Kanaries/pygwalker <br/>
 
 
 Day 83: <br/>
