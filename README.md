@@ -527,10 +527,10 @@ Day 83: Jupyter Datatables <br/>
   Github Site :  <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 83: Pivot Table<br/>
+  Description:  PivotTable.js is an open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop functionality written by Nicolas Kruchten.<br />
+  Official Site :https://pivottable.js.org/examples/ <br />
+  Github Site :https://github.com/nicolaskruchten/pivottable  <br/>
 
 Day 83: <br/>
   Description:  <br />
