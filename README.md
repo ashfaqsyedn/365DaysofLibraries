@@ -538,16 +538,16 @@ Day 83: Skimpy <br/>
   Github Site :  https://aeturrell.github.io/skimpy/<br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
+Day 83: Lux <br/>
+  Description:  Lux is a Python library that facilitate fast and easy data exploration by automating the visualization and data analysis process.<br />
+  Official Site : https://lux-api.readthedocs.io/en/latest/ <br />
   Github Site :  <br/>
 
 
 Day 83: <br/>
   Description:  <br />
   Official Site : <br />
-  Github Site :  <br/>
+  Github Site :  https://github.com/lux-org/lux <br/>
 
 
 Day 83: <br/>
