@@ -521,9 +521,9 @@ Day 101: drawdata <br/>
   Github Site : https://github.com/koaning/drawdata <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
+Day 83: Jupyter Datatables <br/>
+  Description:  Jupyter Notebook extension to levarage pandas DataFrames by integrating DataTables JS. <br />
+  Official Site : https://pypi.org/project/jupyter-datatables/ <br />
   Github Site :  <br/>
 
 
