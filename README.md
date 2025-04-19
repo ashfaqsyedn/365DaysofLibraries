@@ -503,15 +503,15 @@ Day 98: Inflect <br/>
   Github Site :  https://github.com/jaraco/inflect <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
+Day 99: Cleanlabs<br/>
+  Description: Helps you cleans data and labels by automatically detecting issues in ML dataset. <br />
   Official Site : <br />
-  Github Site :  <br/>
+  Github Site : https://github.com/cleanlab/cleanlab <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
+Day 100: Cleanlab <br/>
+  Description: Cleanlab adds automation and trust to every data point going in and every prediction coming out of AI and RAG solutions. <br />
+  Official Site :https://cleanlab.ai/ <br />
   Github Site :  <br/>
 
 
