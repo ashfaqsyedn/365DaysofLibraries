@@ -580,10 +580,10 @@ Day 83: Synthetic Data Kit <br/>
   Github Site : https://github.com/meta-llama/synthetic-data-kit <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
+Day 83: sim <br/>
+  Description:  Organizing, Testing and Building Agentic Workflows<br />
   Official Site : <br />
-  Github Site :  <br/>
+  Github Site :  https://github.com/simstudioai/sim<br/>
 
 
 Day 83: <br/>
