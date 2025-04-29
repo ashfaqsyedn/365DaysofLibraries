@@ -574,10 +574,10 @@ Day 83: TensorTrade <br/>
   Github Site : https://github.com/tensortrade-org/tensortrade <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
+Day 83: Synthetic Data Kit <br/>
+  Description: Tool for generating high-quality synthetic datasets to fine-tune LLMs. <br />
   Official Site : <br />
-  Github Site :  <br/>
+  Github Site : https://github.com/meta-llama/synthetic-data-kit <br/>
 
 
 Day 83: <br/>
