@@ -568,10 +568,10 @@ Day 83: Fire Ducks <br/>
   Github Site :  https://github.com/fireducks-dev/fireducks <br/>
 
 
-Day 83: <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+Day 83: TensorTrade <br/>
+  Description:  Python library to build, train, evaluate and deploy robust trading algorithms.<br />
+  Official Site : http://tensortrade.org/ <br />
+  Github Site : https://github.com/tensortrade-org/tensortrade <br/>
 
 
 Day 83: <br/>
