@@ -587,9 +587,9 @@ Day 83: sim <br/>
 
 
 Day 83: natsort <br/>
-  Description:  <br />
-  Official Site : <br />
-  Github Site :  <br/>
+  Description:  Simple yet flexible natural sorting in Python.<br />
+  Official Site : https://natsort.readthedocs.io/en/stable/ <br />
+  Github Site :  https://github.com/SethMMorton/natsort <br/>
 
 
 Day 83: <br/>
